@@ -1,0 +1,12 @@
+package test;
+
+import bean.Student;
+
+public class client {
+	
+	
+	public static void main(String[] args) {
+		Student st=new Student();
+		
+	}
+}

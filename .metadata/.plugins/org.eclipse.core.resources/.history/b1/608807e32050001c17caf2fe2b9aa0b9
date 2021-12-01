@@ -1,0 +1,17 @@
+package test;
+
+import bean.Student;
+
+public class client {
+	
+	
+	public static void main(String[] args) {
+		Student st=new Student();
+		st.setId(111);
+		st.setName("abc");
+		st.setEmail("abc@gmail.com");
+		st.setMarks(500);
+		
+		
+	}
+}
